@@ -3,3 +3,18 @@
 - **Task**: Write a program that:
   1. Prints "Hello, World!" to the console.
   2. Asks the user for their name using `input()` and prints a personalized greeting (e.g., "Hello, Alice!").
+
+
+- **Example Code**:
+- <details>
+  <summary>Spoiler</summary>
+
+  ```python
+  print("Hello, World!")
+  name = input("Enter your name: ")
+  print(f"Hello, {name}!")
+  ```
+  </details>
+
+
+- **Folder**: `project1/`
