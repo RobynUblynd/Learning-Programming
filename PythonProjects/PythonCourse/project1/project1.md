@@ -5,16 +5,4 @@
   2. Asks the user for their name using `input()` and prints a personalized greeting (e.g., "Hello, Alice!").
 
 
-- **Example Code**:
-- <details>
-  <summary>Spoiler</summary>
-
-  ```python
-  print("Hello, World!")
-  name = input("Enter your name: ")
-  print(f"Hello, {name}!")
-  ```
-  </details>
-
-
 - **Folder**: `project1/`
