@@ -1,8 +1,5 @@
-- **Project 10**: A simple text-based adventure game (using functions and OOP).
+**Project 10: Text-Based Adventure Game**  
+- **Objective**: Use functions and OOP to create a simple interactive story.  
+- **Task**: Develop a text-based adventure game where the player makes choices to progress through a story, utilizing classes for characters or items if desired.
 
-- **Example Code**:
-- <details>
-  <summary>Spoiler</summary>
-
- 
-  </details>
+- **Folder**: `project10/`

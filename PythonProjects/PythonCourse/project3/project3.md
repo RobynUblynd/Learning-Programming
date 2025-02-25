@@ -5,23 +5,4 @@
   2. The user guesses the number, receiving hints like "Too high" or "Too low" until they guess correctly.
 
 
-- **Example Code**:
-- <details>
-  <summary>Spoiler</summary>
-
-  ```python
-  import random
-  number = random.randint(1, 100)
-  guess = 0
-  while guess != number:
-      guess = int(input("Guess a number (1-100): "))
-      if guess < number:
-          print("Too low!")
-      elif guess > number:
-          print("Too high!")
-  print("Congratulations, you guessed it!")
-  ```
-
-</details>  
-
 - **Folder**: `project3/`

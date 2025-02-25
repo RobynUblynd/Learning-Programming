@@ -5,25 +5,4 @@
   2. Performs the operation and displays the result.
 
 
-- **Example Code**:
-- <details>
-  <summary>Spoiler</summary>
-
-  ```python
-  num1 = float(input("Enter first number: "))
-  num2 = float(input("Enter second number: "))
-  op = input("Enter operation (+, -, *, /): ")
-  if op == '+':
-      result = num1 + num2
-  elif op == '-':
-      result = num1 - num2
-  elif op == '*':
-      result = num1 * num2
-  elif op == '/':
-      result = num1 / num2
-  print(f"Result: {result}")
-  ```
-  </details>
-
-
 - **Folder**: `project2/`
